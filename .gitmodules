@@ -1,0 +1,6 @@
+[submodule "version1"]
+	path = version1
+	url = https://github.com/kennethreitz/requests.git
+[submodule "version0"]
+	path = version0
+	url = https://github.com/kennethreitz/requests.git
